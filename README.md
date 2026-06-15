@@ -23,7 +23,7 @@
 - [Handbrake](https://handbrake.fr) | Video encoder Windows GUI
 ## OS
 - [TrueNAS](https://www.truenas.com/) Desktop NAS solution
-- [Termux](https://f-droid.org/en/packages/com.termux/] Terminal emulation for android
+- [Termux](https://f-droid.org/en/packages/com.termux/) Terminal emulation for android
 
 ## To Try
 
