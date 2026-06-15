@@ -1,5 +1,5 @@
 # My Software Collection
-## Media
+## Online Media Streaming
 ### Video
 - [Jellyfin server-side](https://jellyfin.org/) | free self-hosted Netflix/Crunchryoll alternative
     - [Swiftfin client-side](https://apps.apple.com/us/app/swiftfin/id1604098728) | IOS Jellyfin player
