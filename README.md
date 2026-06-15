@@ -32,6 +32,8 @@
 - [PeaZip](https://peazip.github.io/) PAQ, LPAQ, ZPAQ file compression Windows GUI
 - [fre:ac](https://www.freac.org/) Audio encoder Windows GUI
 - [Handbrake](https://handbrake.fr) Video encoder Windows GUI
+### AI
+- [Ollama](https://ollama.com/) Self-hosted AI solution
 ## OS
 - [TrueNAS](https://www.truenas.com/) Desktop NAS solution
 - [Termux](https://f-droid.org/en/packages/com.termux/) Terminal emulation for android
