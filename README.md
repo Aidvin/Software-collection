@@ -34,8 +34,3 @@
 ## OS
 - [TrueNAS](https://www.truenas.com/) Desktop NAS solution
 - [Termux](https://f-droid.org/en/packages/com.termux/) Terminal emulation for android
-
-## To Try
-
-- [ ] Nextcloud
-- [ ] Paperless-ngx
