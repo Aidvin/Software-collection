@@ -1,17 +1,17 @@
 # My Software Collection
 
-## Office
+## Productivity 
 
-- [LibreOffice](https://www.libreoffice.org/)
-- [OnlyOffice](https://www.onlyoffice.com/)
+- [LibreOffice](https://www.libreoffice.org/) Microsoft 365 alternative
 
 ## Media
-
-- [Jellyfin](https://jellyfin.org/)
-- [Navidrome](https://www.navidrome.org/)
+- [Jellyfin server-side](https://jellyfin.org/) 
+    -[Jellyfin client-side Windows](https://github.com/jeffvli/feishin)
+    -[Swiftfin client-side](https://apps.apple.com/us/app/swiftfin/id1604098728)
+- [Navidrome server-side](https://www.navidrome.org/)
+    -[Arpeggi](https://apps.apple.com/us/app/arpeggi/id6503619183)
 
 ## Photos
-
 - [Immich](https://immich.app/)
 
 ## To Try
