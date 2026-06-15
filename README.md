@@ -17,8 +17,8 @@
     - [List 1](https://github.com/9xN/auto-ovpn) .ovpn to use with OpenVPN
     - [List 2](https://github.com/Zoult/.ovpn) .opvn to use with OpenVPN
     - [List 3](https://github.com/mmpx12/proxy-list/blob/master/vpn.md) .opvn to use wwith OpenVPN
-      
-- [WinSCP](https://winscp.net/eng/download.php) file manager for Windows supporting FTP, SFTP, S3 and WebDAV.
+- [WinSCP](https://winscp.net/eng/download.php) file manager for Windows supporting FTP, SFTP, S3 and WebDAV
+- [sshfs](https://github.com/libfuse/sshfs) A network filesystem client to connect to SSH servers
 ## Productivity 
 - [LibreOffice](https://www.libreoffice.org/) | free Microsoft 365 alternative
 ## Storage
